@@ -1,0 +1,18 @@
+[submodule "Project-Python"]
+	path = Project-Python
+	url = git@github.com:elizgarcia5/Project-Python.git
+[submodule "smooth80@github.com"]
+	path = smooth80@github.com
+	url = https://smooth80@github.com/
+[submodule "D/"]
+	path = D/
+	url = https://smooth80@github.com/
+[submodule "D/:"]
+	path = D/:
+	url = https://smooth80@github.com/
+[submodule "smooth80s"]
+	path = smooth80s
+	url = https://smooth80@github.com/
+[submodule "smooth80"]
+	path = smooth80
+	url = https://smooth80@github.com/
